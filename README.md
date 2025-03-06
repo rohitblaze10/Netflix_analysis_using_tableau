@@ -45,7 +45,7 @@ To explore the dashboard:
 3. **Load the Data**: Connect Tableau to the downloaded CSV file.
 4. **Access the Dashboard**: Navigate to the dashboard section to interact with the visualizations.
 
-For a preview of the dashboard, refer to the `Netflix Dashboard sample.pdf` included in the repository.
+For a preview of the dashboard, refer to the `Netflix Dashboard sample.pdf` included in the repository..
 
 ## Additional Resources
 
